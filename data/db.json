@@ -1,0 +1,17 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "checked": false,
+            "item": "Almonds"
+        },{
+            "id": 2,
+            "checked": true,
+            "item": "Milk"
+        },{
+            "id": 3,
+            "checked": false,
+            "item": "Cookies"
+        }
+    ]
+}
